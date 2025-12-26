@@ -1,4 +1,4 @@
-"""my_controller1 controller."""
+"""demo controller."""
 from controller import Robot, Motor, Camera
 
 # ---------------------------
